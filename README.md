@@ -92,6 +92,66 @@ Answers questions about any public repository in plain English, with cited, sour
 
 <br>
 
+
+## 🏆 Competitive Programming
+
+### LeetCode Dashboard
+
+<p align="center">
+  <a href="https://camo.githubusercontent.com/Kavisho-o/leet-snake/output/badge-solved.json">
+    <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/YOUR_GH_USERNAME/YOUR_SNAKE_REPO/output/badge-solved.json&style=for-the-badge&labelColor=0d1117" />
+  </a>
+  <a href="https://raw.githubusercontent.com/YOUR_GH_USERNAME/YOUR_SNAKE_REPO/output/badge-rating.json">
+    <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/YOUR_GH_USERNAME/YOUR_SNAKE_REPO/output/badge-rating.json&style=for-the-badge&labelColor=0d1117" />
+  </a>
+  <a href="https://raw.githubusercontent.com/YOUR_GH_USERNAME/YOUR_SNAKE_REPO/output/badge-active-days.json">
+    <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/YOUR_GH_USERNAME/YOUR_SNAKE_REPO/output/badge-active-days.json&style=for-the-badge&labelColor=0d1117" />
+  </a>
+</p>
+
+<p align="center">
+  <sub><b>🐍 SUBMISSION HEATMAP &middot; LIVE &middot; UPDATED DAILY</b></sub>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Kavish0_0">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GH_USERNAME/YOUR_SNAKE_REPO/output/leetcode-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GH_USERNAME/YOUR_SNAKE_REPO/output/leetcode-snake-light.svg">
+      <img alt="LeetCode submission heatmap with snake animation" src="https://raw.githubusercontent.com/YOUR_GH_USERNAME/YOUR_SNAKE_REPO/output/leetcode-snake-dark.svg" width="92%">
+    </picture>
+  </a>
+</p>
+
+<br>
+
+### Contest Journey
+
+<p align="center">
+  <sub><b>📈 RATING HISTORY &middot; LIVE</b></sub>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Kavish0_0">
+    <img src="https://leetcard.jacoblin.cool/Kavish0_0?ext=contest&theme=dark&colors=0d1117,0d1117,e0e0e0,F8BBD0,F48FB1,EC407A,F8BBD0,F48FB1&font=Fira%20Code&border=0&radius=14" width="80%" />
+  </a>
+</p>
+
+<br>
+
+### CodeChef
+
+<p align="center">
+  <a href="https://www.codechef.com/users/kavi_abstract">
+    <img src="https://img.shields.io/badge/4★_Rated-Peak_1800-EC407A?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0d1117" />
+  </a>
+  <a href="https://www.codechef.com/users/kavi_abstract">
+    <img src="https://img.shields.io/badge/Profile-kavi__abstract-F48FB1?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0d1117" />
+  </a>
+</p>
+
+<br>
+
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
