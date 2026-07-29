@@ -92,6 +92,46 @@ Answers questions about any public repository in plain English, with cited, sour
 
 <br>
 
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
+<img src="https://img.shields.io/badge/LangGraph-2E8555?style=for-the-badge">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/ChromaDB-6E56CF?style=for-the-badge">
+</p>
+
+[![Repository](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kavisho-o/GitRAG)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ AI-Inference-Gateway
+**Multi-Provider LLM Routing Layer**
+
+Multi-provider LLM gateway with automatic failover, rate limiting, and cost tracking.
+
+- Routes across **5 providers** (Groq, OpenAI, Anthropic, Gemini, Ollama) with per-provider circuit breakers
+- Token-bucket rate limiting and request-hash response caching
+- Retryable vs. non-retryable failure separation to preserve retry budget
+- Benchmarked latency and cache hit rate under concurrent load
+
+<br>
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Rate%20Limiting-C0392B?style=for-the-badge">
+<img src="https://img.shields.io/badge/Circuit%20Breakers-D35400?style=for-the-badge">
+</p>
+
+[![Repository](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kavisho-o/ai-inference-gateway)
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ## 📈 GitHub Analytics
 
