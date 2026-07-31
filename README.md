@@ -28,48 +28,48 @@
 
 **Languages**
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+<a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"></a>
 </p>
 
 **AI / ML**
 <p>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/XGBoost-006ACC?style=for-the-badge">
-<img src="https://img.shields.io/badge/SHAP-8A2BE2?style=for-the-badge">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Sentence--Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
+<a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"></a>
+<a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></a>
+<a href="https://xgboost.ai/"><img src="https://img.shields.io/badge/XGBoost-006ACC?style=for-the-badge"></a>
+<a href="https://shap.readthedocs.io/"><img src="https://img.shields.io/badge/SHAP-8A2BE2?style=for-the-badge"></a>
+<a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></a>
+<a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"></a>
+<a href="https://www.sbert.net/"><img src="https://img.shields.io/badge/Sentence--Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"></a>
 </p>
 
 **LLM & RAG**
 <p>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
-<img src="https://img.shields.io/badge/LangGraph-2E8555?style=for-the-badge">
-<img src="https://img.shields.io/badge/Hybrid%20Search-5D3FD3?style=for-the-badge">
-<img src="https://img.shields.io/badge/Reranking-C71585?style=for-the-badge">
-<img src="https://img.shields.io/badge/Prompt%20Engineering-10A37F?style=for-the-badge">
+<a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"></a>
+<a href="https://www.langchain.com/langgraph"><img src="https://img.shields.io/badge/LangGraph-2E8555?style=for-the-badge"></a>
+<a href="https://en.wikipedia.org/wiki/Learned_sparse_retrieval#Hybrid_search"><img src="https://img.shields.io/badge/Hybrid%20Search-5D3FD3?style=for-the-badge"></a>
+<a href="https://www.sbert.net/examples/applications/cross-encoder/README.html"><img src="https://img.shields.io/badge/Reranking-C71585?style=for-the-badge"></a>
+<a href="https://www.promptingguide.ai/"><img src="https://img.shields.io/badge/Prompt%20Engineering-10A37F?style=for-the-badge"></a>
 </p>
 
 **Backend**
 <p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/REST%20APIs-3F51B5?style=for-the-badge">
-<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white">
-<img src="https://img.shields.io/badge/JWT%20Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
-<img src="https://img.shields.io/badge/Circuit%20Breakers-D35400?style=for-the-badge">
-<img src="https://img.shields.io/badge/Rate%20Limiting-C0392B?style=for-the-badge">
+<a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/REST"><img src="https://img.shields.io/badge/REST%20APIs-3F51B5?style=for-the-badge"></a>
+<a href="https://docs.pydantic.dev/"><img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"></a>
+<a href="https://jwt.io/"><img src="https://img.shields.io/badge/JWT%20Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"></a>
+<a href="https://martinfowler.com/bliki/CircuitBreaker.html"><img src="https://img.shields.io/badge/Circuit%20Breakers-D35400?style=for-the-badge"></a>
+<a href="https://en.wikipedia.org/wiki/Rate_limiting"><img src="https://img.shields.io/badge/Rate%20Limiting-C0392B?style=for-the-badge"></a>
 </p>
 
 **Databases & Infra**
 <p>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/ChromaDB-6E56CF?style=for-the-badge">
+<a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+<a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.trychroma.com/"><img src="https://img.shields.io/badge/ChromaDB-6E56CF?style=for-the-badge"></a>
 </p>
 
 <br>
