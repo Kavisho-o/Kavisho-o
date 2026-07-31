@@ -67,7 +67,7 @@ def main() -> None:
     ]
 
     width = LEFT_PAD + WEEKS * (CELL + GAP)
-    height = TOP_PAD + DAYS * (CELL + GAP) + 10
+    height = TOP_PAD + DAYS * (CELL + GAP) + 22
 
     svg_parts = [
         f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width} {height}" '
@@ -100,7 +100,7 @@ def main() -> None:
 
     # Legend
     legend_x = LEFT_PAD + (WEEKS - 6) * (CELL + GAP)
-    legend_y = height - 6
+    legend_y = height - 4
     svg_parts.append(f'<text x="{legend_x - 30}" y="{legend_y}" font-size="9" fill="#8b8f98">Less</text>')
     for i, color in enumerate([EMPTY_COLOR] + SCALE):
         lx = legend_x + i * (CELL + GAP)

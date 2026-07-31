@@ -89,8 +89,10 @@ def fetch(retries: int = 3, backoff: float = 2.0) -> dict:
 def normalize(raw: dict) -> dict:
     matched_user = raw.get("matchedUser") or {}
     submit_stats = (matched_user.get("submitStats") or {}).get("acSubmissionNum") or []
-    solved_by_difficulty = {row["difficulty"]: row["count"] for row in submit_stats}
-
+    solved_by_difficulty = {
+        row["difficulty"]: row["count"]
+        for row in submit_stats
+    }
     contest_ranking = raw.get("userContestRanking") or {}
     history_raw = raw.get("userContestRankingHistory") or []
 
@@ -120,7 +122,7 @@ def normalize(raw: dict) -> dict:
     return {
         "username": LEETCODE_USERNAME,
         "ranking": (matched_user.get("profile") or {}).get("ranking"),
-        "total_solved": sum(solved_by_difficulty.values()),
+        "total_solved": solved_by_difficulty.get("All", 0),
         "solved_by_difficulty": solved_by_difficulty,
         "current_rating": round(contest_ranking.get("rating", 0), 1) if contest_ranking else None,
         "peak_rating": peak_rating,

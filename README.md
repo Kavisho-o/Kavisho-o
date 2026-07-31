@@ -148,27 +148,23 @@ Multi-provider LLM gateway with automatic failover, rate limiting, and cost trac
 **Contest Rating Journey**
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Kavisho-o/Kavisho-o/main/assets/leetcode_contest_chart.svg" width="90%"/>
+  <img src="https://raw.githubusercontent.com/Kavisho-o/Kavisho-o/main/assets/leetcode_contest_chart.svg" width="90%"/>
 </p>
 
 <br>
 
-<details>
-<summary><b>CodeChef</b> — <a href="https://codechef.com/users/kavi_abstract">kavi_abstract</a></summary>
-
-<br>
+**CodeChef Stats** 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Kavisho-o/Kavisho-o/main/assets/codechef_stats.svg" width="60%"/>
+  <img src="https://raw.githubusercontent.com/Kavisho-o/Kavisho-o/main/assets/codechef_stats.svg" width="60%"/>
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Kavisho-o/Kavisho-o/main/assets/codechef_chart.svg" width="90%"/>
+  <img src="https://raw.githubusercontent.com/Kavisho-o/Kavisho-o/main/assets/codechef_chart.svg" width="90%"/>
 </p>
 
-</details>
-
 <br>
+
 
 ## 📈 GitHub Analytics
 
