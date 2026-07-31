@@ -1,1 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 80" width="100%" height="80"><text x="20" y="40" fill="#8b8f98" font-family="Segoe UI, sans-serif" font-size="13">No CodeChef contest history yet.</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 160" width="100%" height="160" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<line x1="40" y1="75.0" x2="880" y2="75.0" stroke="#3a3f4a" stroke-width="1"/>
+<rect x="67.3" y="75.0" width="10.0" height="1.0" rx="1.5" fill="#F8BBD0"><title>Starters 202 (Rated) — rating 1148 (+0)</title></rect>
+<rect x="131.9" y="75.0" width="10.0" height="38.7" rx="1.5" fill="#8f5468"><title>Starters 203 (Rated) — rating 984 (-164)</title></rect>
+<rect x="196.5" y="37.7" width="10.0" height="37.3" rx="1.5" fill="#F8BBD0"><title>Starters 205 (Rated) — rating 1142 (+158)</title></rect>
+<rect x="261.2" y="20.0" width="10.0" height="55.0" rx="1.5" fill="#F8BBD0"><title>Starters 206 (Rated) — rating 1375 (+233)</title></rect>
+<rect x="325.8" y="27.3" width="10.0" height="47.7" rx="1.5" fill="#F8BBD0"><title>Starters 208 (Rated) — rating 1577 (+202)</title></rect>
+<rect x="390.4" y="54.9" width="10.0" height="20.1" rx="1.5" fill="#F8BBD0"><title>Starters 210 (Rated) — rating 1662 (+85)</title></rect>
+<rect x="455.0" y="75.0" width="10.0" height="5.9" rx="1.5" fill="#8f5468"><title>Starters 211 (Rated) — rating 1637 (-25)</title></rect>
+<rect x="519.6" y="56.8" width="10.0" height="18.2" rx="1.5" fill="#F8BBD0"><title>Starters 212 (Rated) — rating 1714 (+77)</title></rect>
+<rect x="584.2" y="54.7" width="10.0" height="20.3" rx="1.5" fill="#F8BBD0"><title>Starters 213 (Rated) — rating 1800 (+86)</title></rect>
+<rect x="648.8" y="75.0" width="10.0" height="14.4" rx="1.5" fill="#8f5468"><title>Starters 216 (Rated) — rating 1739 (-61)</title></rect>
+<rect x="713.5" y="75.0" width="10.0" height="13.0" rx="1.5" fill="#8f5468"><title>Starters 226 (Rated) — rating 1684 (-55)</title></rect>
+<rect x="778.1" y="75.0" width="10.0" height="4.2" rx="1.5" fill="#8f5468"><title>Starters 228 (Rated) — rating 1666 (-18)</title></rect>
+<rect x="842.7" y="75.0" width="10.0" height="8.7" rx="1.5" fill="#8f5468"><title>Starters 237 (Rated) — rating 1629 (-37)</title></rect>
+<text x="40" y="154" font-size="10" fill="#8b8f98">contest 1</text>
+<text x="880" y="154" text-anchor="end" font-size="10" fill="#8b8f98">contest 13</text>
+<text x="40" y="24" font-size="10" fill="#8b8f98">current 1629</text>
+</svg>
