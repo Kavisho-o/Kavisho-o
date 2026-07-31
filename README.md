@@ -140,10 +140,6 @@ Multi-provider LLM gateway with automatic failover, rate limiting, and cost trac
 </p>
 
 <p align="center">
-<sub><a href="https://leetcode.com/u/kavish0_0">leetcode.com/u/kavish0_0</a> · last 12 months of submissions</sub>
-</p>
-
-<p align="center">
 <img src="https://raw.githubusercontent.com/Kavisho-o/Kavisho-o/main/assets/leetcode_heatmap.svg" width="90%"/>
 </p>
 
