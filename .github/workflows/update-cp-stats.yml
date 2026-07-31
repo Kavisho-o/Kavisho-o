@@ -1,0 +1,65 @@
+name: Update Competitive Programming Stats
+
+on:
+  schedule:
+    # Runs once a day at 03:00 UTC. Adjust as you like.
+    - cron: "0 3 * * *"
+  workflow_dispatch: {}
+  push:
+    paths:
+      - "scripts/**"
+
+permissions:
+  contents: write
+
+jobs:
+  update-cp-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Fetch LeetCode data
+        env:
+          LEETCODE_USERNAME: kavish0_0
+        run: python scripts/fetch_leetcode.py
+
+      - name: Fetch CodeChef data
+        env:
+          CODECHEF_USERNAME: kavi_abstract
+        run: python scripts/fetch_codechef.py
+
+      - name: Generate LeetCode stats strip
+        run: python scripts/generate_stats_strip.py
+
+      - name: Generate LeetCode heatmap
+        run: python scripts/generate_heatmap.py
+
+      - name: Generate LeetCode contest chart
+        run: python scripts/generate_leetcode_contest_chart.py
+
+      - name: Generate CodeChef stats strip
+        run: python scripts/generate_codechef_stats_strip.py
+
+      - name: Generate CodeChef chart
+        run: python scripts/generate_codechef_chart.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ assets/
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: auto-update CP stats [skip ci]"
+            git push
+          fi
