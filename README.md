@@ -135,9 +135,13 @@ Multi-provider LLM gateway with automatic failover, rate limiting, and cost trac
 
 ## 🧩 Competitive Programming
 
+<br>
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/Kavisho-o/Kavisho-o/main/assets/leetcode_stats.svg" width="90%"/>
 </p>
+
+
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Kavisho-o/Kavisho-o/main/assets/leetcode_heatmap.svg" width="90%"/>
