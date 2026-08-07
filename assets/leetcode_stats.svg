@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 54" width="100%" height="54" font-family="Segoe UI, Helvetica, Arial, sans-serif">
-<text x="90.0" y="24" text-anchor="middle" font-size="18" font-weight="600" fill="#F48FB1">1852.3</text>
+<text x="90.0" y="24" text-anchor="middle" font-size="18" font-weight="600" fill="#F48FB1">1905.9</text>
 <text x="90.0" y="42" text-anchor="middle" font-size="10.5" letter-spacing="0.5" fill="#8b8f98">RATING</text>
 <text x="270.0" y="24" text-anchor="middle" font-size="18" font-weight="600" fill="#F48FB1">1926.2</text>
 <text x="270.0" y="42" text-anchor="middle" font-size="10.5" letter-spacing="0.5" fill="#8b8f98">PEAK</text>
 <line x1="180.0" y1="10" x2="180.0" y2="44" stroke="#232833" stroke-width="1"/>
-<text x="450.0" y="24" text-anchor="middle" font-size="18" font-weight="600" fill="#F48FB1">#53630</text>
+<text x="450.0" y="24" text-anchor="middle" font-size="18" font-weight="600" fill="#F48FB1">#37793</text>
 <text x="450.0" y="42" text-anchor="middle" font-size="10.5" letter-spacing="0.5" fill="#8b8f98">RANKING</text>
 <line x1="360.0" y1="10" x2="360.0" y2="44" stroke="#232833" stroke-width="1"/>
-<text x="630.0" y="24" text-anchor="middle" font-size="18" font-weight="600" fill="#F48FB1">848</text>
+<text x="630.0" y="24" text-anchor="middle" font-size="18" font-weight="600" fill="#F48FB1">859</text>
 <text x="630.0" y="42" text-anchor="middle" font-size="10.5" letter-spacing="0.5" fill="#8b8f98">SOLVED</text>
 <line x1="540.0" y1="10" x2="540.0" y2="44" stroke="#232833" stroke-width="1"/>
-<text x="810.0" y="24" text-anchor="middle" font-size="18" font-weight="600" fill="#F48FB1">52</text>
+<text x="810.0" y="24" text-anchor="middle" font-size="18" font-weight="600" fill="#F48FB1">53</text>
 <text x="810.0" y="42" text-anchor="middle" font-size="10.5" letter-spacing="0.5" fill="#8b8f98">CONTESTS</text>
 <line x1="720.0" y1="10" x2="720.0" y2="44" stroke="#232833" stroke-width="1"/>
 </svg>

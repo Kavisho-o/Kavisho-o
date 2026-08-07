@@ -1,18 +1,18 @@
 {
   "username": "kavish0_0",
-  "ranking": 54777,
-  "total_solved": 848,
+  "ranking": 52766,
+  "total_solved": 859,
   "solved_by_difficulty": {
-    "All": 848,
-    "Easy": 273,
-    "Medium": 456,
-    "Hard": 119
+    "All": 859,
+    "Easy": 276,
+    "Medium": 461,
+    "Hard": 122
   },
-  "current_rating": 1852.3,
+  "current_rating": 1905.9,
   "peak_rating": 1926.2,
-  "global_ranking": 53630,
-  "top_percentage": 6.27,
-  "attended_contests_count": 52,
+  "global_ranking": 37793,
+  "top_percentage": 4.44,
+  "attended_contests_count": 53,
   "submission_calendar": {
     "1767225600": 2,
     "1767312000": 2,
@@ -223,10 +223,13 @@
     "1785283200": 1,
     "1785369600": 2,
     "1785456000": 1,
-    "1754179200": 10,
-    "1754352000": 8,
-    "1754438400": 3,
-    "1754524800": 2,
+    "1785542400": 6,
+    "1785628800": 8,
+    "1785715200": 2,
+    "1785801600": 2,
+    "1785888000": 1,
+    "1785974400": 1,
+    "1786060800": 2,
     "1754611200": 7,
     "1754784000": 22,
     "1754870400": 1,
@@ -754,31 +757,47 @@
       "rating_after": 1837.9,
       "rating_before": 1816.2,
       "delta": 21.7,
-      "ranking": 2602
+      "ranking": 2601
     },
     {
       "name": "Biweekly Contest 187",
       "start_time": 1784385000,
-      "rating_after": 1821.5,
+      "rating_after": 1822.6,
       "rating_before": 1837.9,
-      "delta": -16.4,
-      "ranking": 7307
+      "delta": -15.3,
+      "ranking": 7089
     },
     {
       "name": "Weekly Contest 511",
       "start_time": 1784428200,
-      "rating_after": 1843.1,
-      "rating_before": 1821.5,
-      "delta": 21.6,
-      "ranking": 2552
+      "rating_after": 1842.7,
+      "rating_before": 1822.6,
+      "delta": 20.1,
+      "ranking": 2656
     },
     {
       "name": "Weekly Contest 512",
       "start_time": 1785033000,
-      "rating_after": 1852.3,
-      "rating_before": 1843.1,
-      "delta": 9.2,
-      "ranking": 3592
+      "rating_after": 1852.7,
+      "rating_before": 1842.7,
+      "delta": 10.0,
+      "ranking": 3524
+    },
+    {
+      "name": "Biweekly Contest 188",
+      "start_time": 1785594600,
+      "rating_after": 1852.7,
+      "rating_before": 1852.7,
+      "delta": 0.0,
+      "ranking": 0
+    },
+    {
+      "name": "Weekly Contest 513",
+      "start_time": 1785637800,
+      "rating_after": 1905.9,
+      "rating_before": 1852.7,
+      "delta": 53.2,
+      "ranking": 752
     }
   ]
 }
