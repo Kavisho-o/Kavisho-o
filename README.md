@@ -172,12 +172,12 @@ Multi-provider LLM gateway with automatic failover, rate limiting, and cost trac
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-pink-two-62.vercel.app/api?username=Kavisho-o&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=F48FB1&icon_color=EC407A&text_color=e0e0e0" />
-  <img height="180" src="https://github-readme-stats-pink-two-62.vercel.app/api/top-langs/?username=Kavisho-o&layout=compact&hide_border=true&bg_color=0d1117&title_color=F48FB1&text_color=e0e0e0" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kavisho-o&layout=compact&hide_border=true&bg_color=0d1117&title_color=F48FB1&text_color=e0e0e0&hide=jupyter%20notebook" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/wakatime?username=d0d75678-35ed-4c70-9494-bc7e1258cbcb&layout=compact&hide_border=true&bg_color=0d1117&title_color=F48FB1&text_color=e0e0e0" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavisho-o&hide_border=true&background=0d1117&ring=EC407A&fire=F48FB1&currStreakLabel=F8BBD0&sideLabels=e0e0e0&sideNums=e0e0e0&currStreakNum=ffffff" width="90%" />
+<img src="https://streak-stats.demolab.com/?user=Kavisho-o&hide_border=true&background=0D1117&ring=EC407A&fire=F48BD0&currStreakLabel=F8BBD0&sideLabels=e0e0e0&sideNums=e0e0e0" />
 </p>
 
 <p align="center">
