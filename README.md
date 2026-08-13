@@ -177,7 +177,7 @@ Multi-provider LLM gateway with automatic failover, rate limiting, and cost trac
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=Kavisho-o&hide_border=true&background=0D1117&ring=EC407A&fire=F48BD0&currStreakLabel=F8BBD0&currStreakNum=FFFFFF&sideLabels=e0e0e0&sideNums=e0e0e0&dates=e0e0e0" />
+  <img src="https://streak-stats.demolab.com/?user=Kavisho-o&hide_border=true&background=0D1117&ring=EC407A&fire=F48BD0&currStreakLabel=F8BBD0&currStreakNum=FFFFFF&sideLabels=e0e0e0&sideNums=e0e0e0&dates=e0e0e0" />
 </p>
 
 <p align="center">
