@@ -1,9 +1,9 @@
 {
   "username": "kavi_abstract",
-  "current_rating": 1595.0,
+  "current_rating": 1597.0,
   "highest_rating": 1800.0,
   "stars": 3,
-  "global_rank": 16638,
+  "global_rank": 16522,
   "country_rank": null,
   "contests_count": 14,
   "contests": [
@@ -88,7 +88,7 @@
     {
       "name": "Starters 250 (Rated)",
       "end_date": "2026-08-05",
-      "rating": 1595.0,
+      "rating": 1597.0,
       "rank": 941
     }
   ]
