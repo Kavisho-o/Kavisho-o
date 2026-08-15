@@ -172,8 +172,37 @@ Multi-provider LLM gateway with automatic failover, rate limiting, and cost trac
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kavisho-o&layout=compact&hide_border=true&bg_color=0d1117&title_color=F48FB1&text_color=e0e0e0&hide=jupyter%20notebook" />
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/wakatime?username=d0d75678-35ed-4c70-9494-bc7e1258cbcb&layout=compact&hide_border=true&bg_color=0d1117&title_color=F48FB1&text_color=e0e0e0&t=1" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8BBD0,50:F48FB1,100:EC407A&height=4&width=800" width="70%"/>
+</p>
+
+<br>
+
+<p align="center">
+<img height="42" src="https://img.shields.io/badge/⬢_Most%20Used%20Languages-0d1117?style=for-the-badge&labelColor=F48FB1&color=0d1117"/>
+</p>
+
+<br>
+
+<p align="center">
+<img width="560" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kavisho-o&layout=compact&hide_border=true&bg_color=0d1117&title_color=F48FB1&text_color=e0e0e0&hide_title=true&card_width=560&hide=jupyter%20notebook" />
+</p>
+
+<br><br>
+
+<p align="center">
+<img height="42" src="https://img.shields.io/badge/⬢_WakaTime_·_Last_7_Days-0d1117?style=for-the-badge&labelColor=EC407A&color=0d1117"/>
+</p>
+
+<br>
+
+<p align="center">
+<img width="560" src="https://github-stats-extended.vercel.app/api/wakatime?username=d0d75678-35ed-4c70-9494-bc7e1258cbcb&layout=compact&hide_border=true&bg_color=0d1117&title_color=F48FB1&text_color=e0e0e0&hide_title=true&card_width=560&t=1" />
+</p>
+
+<br>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8BBD0,50:F48FB1,100:EC407A&height=4&width=800" width="70%"/>
 </p>
 
 <p align="center">
