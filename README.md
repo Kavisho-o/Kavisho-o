@@ -173,7 +173,7 @@ Multi-provider LLM gateway with automatic failover, rate limiting, and cost trac
 
 <p align="center">
   <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kavisho-o&layout=compact&hide_border=true&bg_color=0d1117&title_color=F48FB1&text_color=e0e0e0&hide=jupyter%20notebook" />
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/wakatime?username=d0d75678-35ed-4c70-9494-bc7e1258cbcb&layout=compact&hide_border=true&bg_color=0d1117&title_color=F48FB1&text_color=e0e0e0" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/wakatime?username=d0d75678-35ed-4c70-9494-bc7e1258cbcb&layout=compact&hide_border=true&bg_color=0d1117&title_color=F48FB1&text_color=e0e0e0&t=1" />
 </p>
 
 <p align="center">
