@@ -2,9 +2,9 @@
 <rect x="28" y="20" width="11" height="11" rx="2.5" ry="2.5" fill="#1b1f27"><title>2025-08-18: 0 submissions</title></rect>
 <rect x="28" y="34" width="11" height="11" rx="2.5" ry="2.5" fill="#1b1f27"><title>2025-08-19: 0 submissions</title></rect>
 <rect x="28" y="48" width="11" height="11" rx="2.5" ry="2.5" fill="#1b1f27"><title>2025-08-20: 0 submissions</title></rect>
-<rect x="28" y="62" width="11" height="11" rx="2.5" ry="2.5" fill="#7a3a52"><title>2025-08-21: 11 submissions</title></rect>
-<rect x="28" y="76" width="11" height="11" rx="2.5" ry="2.5" fill="#7a3a52"><title>2025-08-22: 11 submissions</title></rect>
-<rect x="28" y="90" width="11" height="11" rx="2.5" ry="2.5" fill="#7a3a52"><title>2025-08-23: 11 submissions</title></rect>
+<rect x="28" y="62" width="11" height="11" rx="2.5" ry="2.5" fill="#1b1f27"><title>2025-08-21: 0 submissions</title></rect>
+<rect x="28" y="76" width="11" height="11" rx="2.5" ry="2.5" fill="#3a2530"><title>2025-08-22: 4 submissions</title></rect>
+<rect x="28" y="90" width="11" height="11" rx="2.5" ry="2.5" fill="#3a2530"><title>2025-08-23: 4 submissions</title></rect>
 <rect x="28" y="104" width="11" height="11" rx="2.5" ry="2.5" fill="#3a2530"><title>2025-08-24: 4 submissions</title></rect>
 <rect x="42" y="20" width="11" height="11" rx="2.5" ry="2.5" fill="#3a2530"><title>2025-08-25: 1 submissions</title></rect>
 <rect x="42" y="34" width="11" height="11" rx="2.5" ry="2.5" fill="#7a3a52"><title>2025-08-26: 8 submissions</title></rect>
@@ -380,8 +380,8 @@
 <rect x="756" y="48" width="11" height="11" rx="2.5" ry="2.5" fill="#3a2530"><title>2026-08-19: 2 submissions</title></rect>
 <rect x="756" y="62" width="11" height="11" rx="2.5" ry="2.5" fill="#3a2530"><title>2026-08-20: 3 submissions</title></rect>
 <rect x="756" y="76" width="11" height="11" rx="2.5" ry="2.5" fill="#3a2530"><title>2026-08-21: 1 submissions</title></rect>
-<rect x="756" y="90" width="11" height="11" rx="2.5" ry="2.5" fill="#3a2530"><title>2026-08-22: 2 submissions</title></rect>
-<rect x="756" y="104" width="11" height="11" rx="2.5" ry="2.5" fill="#1b1f27"><title>2026-08-23: 0 submissions</title></rect>
+<rect x="756" y="90" width="11" height="11" rx="2.5" ry="2.5" fill="#3a2530"><title>2026-08-22: 3 submissions</title></rect>
+<rect x="756" y="104" width="11" height="11" rx="2.5" ry="2.5" fill="#3a2530"><title>2026-08-23: 1 submissions</title></rect>
 <text x="0" y="43" font-size="9" fill="#8b8f98">Mon</text>
 <text x="0" y="71" font-size="9" fill="#8b8f98">Wed</text>
 <text x="0" y="99" font-size="9" fill="#8b8f98">Fri</text>
