@@ -1,6 +1,6 @@
 {
   "username": "kavish0_0",
-  "ranking": 47459,
+  "ranking": 47504,
   "total_solved": 898,
   "solved_by_difficulty": {
     "All": 898,
@@ -8,11 +8,11 @@
     "Medium": 484,
     "Hard": 129
   },
-  "current_rating": 1896.6,
+  "current_rating": 1907.3,
   "peak_rating": 1926.2,
-  "global_ranking": 40527,
-  "top_percentage": 4.74,
-  "attended_contests_count": 56,
+  "global_ranking": 37939,
+  "top_percentage": 4.43,
+  "attended_contests_count": 57,
   "submission_calendar": {
     "1767225600": 2,
     "1767312000": 2,
@@ -257,7 +257,7 @@
     "1788220800": 1,
     "1788307200": 1,
     "1788393600": 1,
-    "1756944000": 5,
+    "1788480000": 1,
     "1757030400": 2,
     "1757116800": 15,
     "1757203200": 9,
