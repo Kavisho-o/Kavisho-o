@@ -1,6 +1,6 @@
 {
   "username": "kavish0_0",
-  "ranking": 47504,
+  "ranking": 47554,
   "total_solved": 898,
   "solved_by_difficulty": {
     "All": 898,
@@ -10,7 +10,7 @@
   },
   "current_rating": 1907.3,
   "peak_rating": 1926.2,
-  "global_ranking": 37939,
+  "global_ranking": 37902,
   "top_percentage": 4.43,
   "attended_contests_count": 57,
   "submission_calendar": {
@@ -258,7 +258,7 @@
     "1788307200": 1,
     "1788393600": 1,
     "1788480000": 1,
-    "1757030400": 2,
+    "1788566400": 1,
     "1757116800": 15,
     "1757203200": 9,
     "1757289600": 1,
@@ -824,6 +824,14 @@
       "rating_before": 1902.2,
       "delta": -5.6,
       "ranking": 4469
+    },
+    {
+      "name": "Biweekly Contest 190",
+      "start_time": 1788013800,
+      "rating_after": 1907.3,
+      "rating_before": 1896.6,
+      "delta": 10.7,
+      "ranking": 2120
     }
   ]
 }
