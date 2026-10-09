@@ -1,18 +1,18 @@
 {
   "username": "kavish0_0",
-  "ranking": 43189,
-  "total_solved": 935,
+  "ranking": 43224,
+  "total_solved": 936,
   "solved_by_difficulty": {
-    "All": 935,
+    "All": 936,
     "Easy": 294,
-    "Medium": 503,
+    "Medium": 504,
     "Hard": 138
   },
-  "current_rating": 1904.4,
+  "current_rating": 1919.5,
   "peak_rating": 1947.1,
-  "global_ranking": 39128,
-  "top_percentage": 4.54,
-  "attended_contests_count": 60,
+  "global_ranking": 35640,
+  "top_percentage": 4.14,
+  "attended_contests_count": 61,
   "submission_calendar": {
     "1767225600": 2,
     "1767312000": 2,
@@ -291,7 +291,7 @@
     "1791244800": 1,
     "1791331200": 1,
     "1791417600": 1,
-    "1759968000": 2,
+    "1791504000": 1,
     "1760054400": 1,
     "1760140800": 5,
     "1760227200": 14,
@@ -856,6 +856,14 @@
       "rating_before": 1947.1,
       "delta": -42.7,
       "ranking": 8890
+    },
+    {
+      "name": "Weekly Contest 522",
+      "start_time": 1791081000,
+      "rating_after": 1919.5,
+      "rating_before": 1904.4,
+      "delta": 15.1,
+      "ranking": 1933
     }
   ]
 }
