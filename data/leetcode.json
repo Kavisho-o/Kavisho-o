@@ -1,18 +1,18 @@
 {
   "username": "kavish0_0",
-  "ranking": 40023,
-  "total_solved": 965,
+  "ranking": 39940,
+  "total_solved": 966,
   "solved_by_difficulty": {
-    "All": 965,
+    "All": 966,
     "Easy": 303,
-    "Medium": 518,
+    "Medium": 519,
     "Hard": 144
   },
-  "current_rating": 1889.0,
+  "current_rating": 1939.7,
   "peak_rating": 1947.1,
-  "global_ranking": 43648,
-  "top_percentage": 5.04,
-  "attended_contests_count": 63,
+  "global_ranking": 31871,
+  "top_percentage": 3.7,
+  "attended_contests_count": 65,
   "submission_calendar": {
     "1767225600": 2,
     "1767312000": 2,
@@ -313,7 +313,7 @@
     "1793145600": 2,
     "1793232000": 1,
     "1793318400": 1,
-    "1761868800": 1,
+    "1793404800": 1,
     "1761955200": 1,
     "1762041600": 5,
     "1762128000": 2,
@@ -880,6 +880,22 @@
       "rating_before": 1916.0,
       "delta": -27.0,
       "ranking": 5916
+    },
+    {
+      "name": "Biweekly Contest 194",
+      "start_time": 1792852200,
+      "rating_after": 1886.3,
+      "rating_before": 1889.0,
+      "delta": -2.7,
+      "ranking": 3132
+    },
+    {
+      "name": "Weekly Contest 525",
+      "start_time": 1792895400,
+      "rating_after": 1939.7,
+      "rating_before": 1886.3,
+      "delta": 53.4,
+      "ranking": 536
     }
   ]
 }
