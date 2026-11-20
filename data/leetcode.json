@@ -1,18 +1,18 @@
 {
   "username": "kavish0_0",
-  "ranking": 36504,
-  "total_solved": 998,
+  "ranking": 36422,
+  "total_solved": 999,
   "solved_by_difficulty": {
-    "All": 998,
+    "All": 999,
     "Easy": 313,
     "Medium": 537,
-    "Hard": 148
+    "Hard": 149
   },
-  "current_rating": 1862.3,
+  "current_rating": 1821.7,
   "peak_rating": 1947.1,
-  "global_ranking": 52733,
-  "top_percentage": 6.05,
-  "attended_contests_count": 68,
+  "global_ranking": 66081,
+  "top_percentage": 7.56,
+  "attended_contests_count": 69,
   "submission_calendar": {
     "1767225600": 2,
     "1767312000": 2,
@@ -333,7 +333,7 @@
     "1794873600": 4,
     "1794960000": 1,
     "1795046400": 1,
-    "1763596800": 2,
+    "1795132800": 1,
     "1763683200": 9,
     "1763769600": 16,
     "1763856000": 25,
@@ -920,6 +920,14 @@
       "rating_before": 1867.3,
       "delta": -5.0,
       "ranking": 2734
+    },
+    {
+      "name": "Weekly Contest 528",
+      "start_time": 1794709800,
+      "rating_after": 1821.7,
+      "rating_before": 1862.3,
+      "delta": -40.6,
+      "ranking": 7809
     }
   ]
 }
